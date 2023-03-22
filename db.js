@@ -1,3 +1,5 @@
+// https://www.digitalocean.com/community/tutorials/how-to-use-sqlite-with-node-js-on-ubuntu-22-04
+
 const fs = require("fs");
 const sqlite3 = require("sqlite3").verbose();
 const filepath = "./fish.db";
